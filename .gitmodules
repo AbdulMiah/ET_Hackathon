@@ -1,0 +1,3 @@
+[submodule "hackathon-aframe"]
+	path = hackathon-aframe
+	url = https://github.com/AbdulMiah/hackathon-aframe.git
