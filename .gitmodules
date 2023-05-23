@@ -1,3 +1,6 @@
 [submodule "hackathon-aframe"]
 	path = hackathon-aframe
 	url = https://github.com/AbdulMiah/hackathon-aframe.git
+[submodule "hackathon-dashboard"]
+	path = hackathon-dashboard
+	url = https://github.com/AbdulMiah/hackathon-dashboard.git
